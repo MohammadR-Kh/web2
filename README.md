@@ -1,1 +1,1 @@
-https://mohammadr-kh.github.io/web2/
+https://mohammadr-kh.github.io/web2/public
